@@ -1,0 +1,11 @@
+{
+  "mode": "lexicon_fallback (no API key set)",
+  "n": 150,
+  "ai_acc_sampled": 0.6133,
+  "ai_f1_sampled": 0.701,
+  "baseline_acc_holdout": 0.8009,
+  "baseline_f1_holdout": 0.8,
+  "ai_beats_baseline": false,
+  "latency_s_total": 0.0,
+  "chars_processed": 9968
+}

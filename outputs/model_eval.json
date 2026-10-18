@@ -1,0 +1,20 @@
+{
+  "n_examples": 2731,
+  "baseline_acc_holdout": 0.8009,
+  "baseline_f1_holdout": 0.8,
+  "majority_class_acc": 0.5039,
+  "by_corpus": {
+    "amazon_cells": {
+      "acc": 0.8306,
+      "f1": 0.8293
+    },
+    "imdb": {
+      "acc": 0.7594,
+      "f1": 0.7594
+    },
+    "yelp": {
+      "acc": 0.8032,
+      "f1": 0.7841
+    }
+  }
+}
